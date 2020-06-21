@@ -1,0 +1,16 @@
+html,
+body {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+  background-color: #f06292;
+}
+.container {
+  text-align: center;
+  align-content: center;
+  margin: 80px auto 0 auto;
+  max-width: 1200px;
+  background-color: #ffcdd2;
+}
+.nav-container{
+  margin: auto;
+}
