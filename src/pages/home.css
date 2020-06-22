@@ -1,3 +1,21 @@
+@font-face{
+    font-family: cooper;
+    src: url(Cooper\ Std\ Black.ttf);
+}
+
+@font-face{
+    font-family: avenir;
+    src: url(AvenirNextLTPro-Regular.otf)
+}
+
 .home {
     padding-top: 10;
+}
+
+h1{
+    font-family: cooper;
+}
+
+h2{
+    font-family: avenir;
 }
